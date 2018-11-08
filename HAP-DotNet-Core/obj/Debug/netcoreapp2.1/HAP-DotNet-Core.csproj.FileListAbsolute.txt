@@ -1,0 +1,11 @@
+C:\Users\Björn van Schie\Documents\Repositories\HAP-DotNet-Core\HAP-DotNet-Core\bin\Debug\netcoreapp2.1\HAP-DotNet-Core.deps.json
+C:\Users\Björn van Schie\Documents\Repositories\HAP-DotNet-Core\HAP-DotNet-Core\bin\Debug\netcoreapp2.1\HAP-DotNet-Core.runtimeconfig.json
+C:\Users\Björn van Schie\Documents\Repositories\HAP-DotNet-Core\HAP-DotNet-Core\bin\Debug\netcoreapp2.1\HAP-DotNet-Core.runtimeconfig.dev.json
+C:\Users\Björn van Schie\Documents\Repositories\HAP-DotNet-Core\HAP-DotNet-Core\bin\Debug\netcoreapp2.1\HAP-DotNet-Core.dll
+C:\Users\Björn van Schie\Documents\Repositories\HAP-DotNet-Core\HAP-DotNet-Core\bin\Debug\netcoreapp2.1\HAP-DotNet-Core.pdb
+C:\Users\Björn van Schie\Documents\Repositories\HAP-DotNet-Core\HAP-DotNet-Core\obj\Debug\netcoreapp2.1\HAP-DotNet-Core.csprojAssemblyReference.cache
+C:\Users\Björn van Schie\Documents\Repositories\HAP-DotNet-Core\HAP-DotNet-Core\obj\Debug\netcoreapp2.1\HAP-DotNet-Core.csproj.CoreCompileInputs.cache
+C:\Users\Björn van Schie\Documents\Repositories\HAP-DotNet-Core\HAP-DotNet-Core\obj\Debug\netcoreapp2.1\HAP-DotNet-Core.AssemblyInfoInputs.cache
+C:\Users\Björn van Schie\Documents\Repositories\HAP-DotNet-Core\HAP-DotNet-Core\obj\Debug\netcoreapp2.1\HAP-DotNet-Core.AssemblyInfo.cs
+C:\Users\Björn van Schie\Documents\Repositories\HAP-DotNet-Core\HAP-DotNet-Core\obj\Debug\netcoreapp2.1\HAP-DotNet-Core.dll
+C:\Users\Björn van Schie\Documents\Repositories\HAP-DotNet-Core\HAP-DotNet-Core\obj\Debug\netcoreapp2.1\HAP-DotNet-Core.pdb
