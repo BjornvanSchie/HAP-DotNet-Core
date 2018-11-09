@@ -681,23 +681,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Björn van Schie\\.nuget\\packages\\": {},
+    "C:\\Users\\bjorn\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Björn van Schie\\Documents\\Repositories\\HAP-DotNet-Core\\HAP-DotNet-Core\\HAP-DotNet-Core.csproj",
+      "projectUniqueName": "D:\\Windows\\Documents\\Repositories\\HAP-DotNet-Core\\HAP-DotNet-Core\\HAP-DotNet-Core.csproj",
       "projectName": "HAP-DotNet-Core",
-      "projectPath": "C:\\Users\\Björn van Schie\\Documents\\Repositories\\HAP-DotNet-Core\\HAP-DotNet-Core\\HAP-DotNet-Core.csproj",
-      "packagesPath": "C:\\Users\\Björn van Schie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Björn van Schie\\Documents\\Repositories\\HAP-DotNet-Core\\HAP-DotNet-Core\\obj\\",
+      "projectPath": "D:\\Windows\\Documents\\Repositories\\HAP-DotNet-Core\\HAP-DotNet-Core\\HAP-DotNet-Core.csproj",
+      "packagesPath": "C:\\Users\\bjorn\\.nuget\\packages\\",
+      "outputPath": "D:\\Windows\\Documents\\Repositories\\HAP-DotNet-Core\\HAP-DotNet-Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Björn van Schie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bjorn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
